@@ -422,7 +422,7 @@ body {
     padding-right: 60px;
 }
 
-@media screen and (max-width: 412px) {
+@media screen and (max-width: 600px) {
 
     .col {
          width: 100%;
