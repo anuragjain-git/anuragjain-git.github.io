@@ -269,7 +269,7 @@ body {
     opacity: 0.7;
 }
 
-.progressbar-html,.progressbar-css,.progressbar-bootstrap,.progressbar-javascript,.progressbar-jquery,.progressbar-java,.progressbar-python,.progressbar-x {
+.progressbar-html,.progressbar-css,.progressbar-bootstrap,.progressbar-javascript,.progressbar-jquery,.progressbar-java,.progressbar-python,.progressbar-React {
     height: 100%;
     background: -webkit-linear-gradient(left, rgba(34,125,170,1) 0%, rgba(81,172,205,1) 100%);;
 }
@@ -279,7 +279,7 @@ body {
 }
 
 .progressbar-css {
-    width: 70%;
+    width: 80%;
 }
 
 .progressbar-bootstrap {
@@ -287,11 +287,11 @@ body {
 }
 
 .progressbar-javascript {
-    width: 60%;
+    width: 70%;
 }
 
 .progressbar-jquery {
-    width: 50%;
+    width: 70%;
 }
 
 .progressbar-java {
