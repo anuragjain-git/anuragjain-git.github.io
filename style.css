@@ -283,7 +283,7 @@ body {
 }
 
 .progressbar-bootstrap {
-    width: 50%;
+    width: 40%;
 }
 
 .progressbar-javascript {
@@ -299,11 +299,15 @@ body {
 }
 
 .progressbar-python {
+    width: 60%;
+}
+
+.progressbar-react {
     width: 40%;
 }
 
-.progressbar-React {
-    width: 40%;
+.progressbar-flutter {
+    width: 50%;
 }
 
 .education-div {
