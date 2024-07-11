@@ -269,7 +269,7 @@ body {
     opacity: 0.7;
 }
 
-.progressbar-html,.progressbar-css,.progressbar-bootstrap,.progressbar-javascript,.progressbar-jquery,.progressbar-java,.progressbar-python,.progressbar-React {
+.progressbar-html,.progressbar-css,.progressbar-bootstrap,.progressbar-javascript,.progressbar-jquery,.progressbar-java,.progressbar-python,.progressbar-react,.progressbar-flutter {
     height: 100%;
     background: -webkit-linear-gradient(left, rgba(34,125,170,1) 0%, rgba(81,172,205,1) 100%);;
 }
