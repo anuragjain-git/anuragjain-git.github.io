@@ -206,9 +206,12 @@
 
     <div class="last-div">
         <div class="last-inner-div">
-            <p class="last-div-p">© 2022 Anurag Jain</p>
+            <p class="last-div-p">© 2022–<span id="current-year"></span> Anurag Jain</p>
         </div>
     </div>
+<script>
+    document.getElementById("current-year").textContent = new Date().getFullYear();
+</script>
 <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
 <script src="index.js"></script>
 </body>
